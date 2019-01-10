@@ -1,0 +1,2 @@
+function IsLillyHot () [console.log("Is Lilly hot?")]; 
+console.log(IsLillyHot); 
